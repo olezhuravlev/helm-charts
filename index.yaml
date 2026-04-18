@@ -3,34 +3,34 @@ entries:
   hw15:
   - apiVersion: v2
     appVersion: latest
-    created: "2026-04-18T15:03:43.829521805+07:00"
+    created: "2026-04-18T19:07:01.149680017+07:00"
     description: A Helm chart for Kubernetes
     digest: 8ebaa533a611b7e140e53fea5c4b033672da5719464260b11b8ce042c3430a10
     name: hw15
     type: application
     urls:
-    - hw15-0.0.1.tgz
+    - https://olezhuravlev.github.io/helm-charts/hw15-0.0.1.tgz
     version: 0.0.1
   hw16-grafana:
   - apiVersion: v2
     appVersion: 13.0-ubuntu
-    created: "2026-04-18T15:03:43.8301813+07:00"
+    created: "2026-04-18T19:07:01.150098413+07:00"
     description: A Helm chart for Kubernetes
-    digest: b301b233d867536f47d9881344cba319bedf24417e4bc122d110d6c207a89090
+    digest: d5e582a5d93034b8b722b5b8eeac3e542c4134217bd2000b4a4fdf2180390270
     name: hw16-grafana
     type: application
     urls:
-    - hw16-grafana-0.1.0.tgz
+    - https://olezhuravlev.github.io/helm-charts/hw16-grafana-0.1.0.tgz
     version: 0.1.0
   hw16-prometheus:
   - apiVersion: v2
     appVersion: v3.11.2
-    created: "2026-04-18T15:03:43.830800365+07:00"
+    created: "2026-04-18T19:07:01.150477726+07:00"
     description: A Helm chart for Kubernetes
-    digest: b859e8005946d59211f9cd0ead92647f5fbf7e995a02c70daf772023d578c3bb
+    digest: f39c981b217336ee43564177a7f5d3cf0c0ce93f4d6d53322a636fbac2ca79c6
     name: hw16-prometheus
     type: application
     urls:
-    - hw16-prometheus-0.1.0.tgz
+    - https://olezhuravlev.github.io/helm-charts/hw16-prometheus-0.1.0.tgz
     version: 0.1.0
-generated: "2026-04-18T15:03:43.828639172+07:00"
+generated: "2026-04-18T19:07:01.149035887+07:00"
