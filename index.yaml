@@ -3,7 +3,7 @@ entries:
   hw15:
   - apiVersion: v2
     appVersion: latest
-    created: "2026-04-18T19:07:01.149680017+07:00"
+    created: "2026-04-24T22:28:18.054049707+07:00"
     description: A Helm chart for Kubernetes
     digest: 8ebaa533a611b7e140e53fea5c4b033672da5719464260b11b8ce042c3430a10
     name: hw15
@@ -14,7 +14,7 @@ entries:
   hw16-grafana:
   - apiVersion: v2
     appVersion: 13.0-ubuntu
-    created: "2026-04-18T19:07:01.150098413+07:00"
+    created: "2026-04-24T22:28:18.055387262+07:00"
     description: A Helm chart for Kubernetes
     digest: d5e582a5d93034b8b722b5b8eeac3e542c4134217bd2000b4a4fdf2180390270
     name: hw16-grafana
@@ -25,7 +25,7 @@ entries:
   hw16-prometheus:
   - apiVersion: v2
     appVersion: v3.11.2
-    created: "2026-04-18T19:07:01.150477726+07:00"
+    created: "2026-04-24T22:28:18.057537058+07:00"
     description: A Helm chart for Kubernetes
     digest: f39c981b217336ee43564177a7f5d3cf0c0ce93f4d6d53322a636fbac2ca79c6
     name: hw16-prometheus
@@ -33,4 +33,15 @@ entries:
     urls:
     - https://olezhuravlev.github.io/helm-charts/hw16-prometheus-0.1.0.tgz
     version: 0.1.0
-generated: "2026-04-18T19:07:01.149035887+07:00"
+  hw17-webapp:
+  - apiVersion: v2
+    appVersion: 0.0.1-SNAPSHOT
+    created: "2026-04-24T22:28:18.05794686+07:00"
+    description: A Helm chart for Kubernetes
+    digest: d46ff66bd89e5a7b997a55132c6797658f3296f999c93bcd00dc2b5c2bfb5632
+    name: hw17-webapp
+    type: application
+    urls:
+    - https://olezhuravlev.github.io/helm-charts/hw17-webapp-0.0.1.tgz
+    version: 0.0.1
+generated: "2026-04-24T22:28:18.053045832+07:00"
