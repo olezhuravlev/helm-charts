@@ -3,7 +3,7 @@ entries:
   hw17-webapp:
   - apiVersion: v2
     appVersion: 0.0.4-SNAPSHOT
-    created: "2026-05-01T12:48:22.91426263+07:00"
+    created: "2026-05-01T13:04:35.207398424+07:00"
     description: A Helm chart for Kubernetes
     digest: 0c2832bdf7572ca722935c61abf63cd1d793bd68c9420c2ca465fa4d7b0f2275
     name: hw17-webapp
@@ -13,8 +13,18 @@ entries:
     version: 0.0.4
   hw18-webapp:
   - apiVersion: v2
+    appVersion: 0.0.3-SNAPSHOT
+    created: "2026-05-01T13:04:35.209091198+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 49a77bc895a70b450d2029913dbec9d6cf1291ac0484897f9701c90c6f782005
+    name: hw18-webapp
+    type: application
+    urls:
+    - https://olezhuravlev.github.io/helm-charts/hw18-webapp-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
     appVersion: 0.0.2-SNAPSHOT
-    created: "2026-05-01T12:48:22.916555318+07:00"
+    created: "2026-05-01T13:04:35.208137188+07:00"
     description: A Helm chart for Kubernetes
     digest: b4ba3d6024c7e5a92cd7e94b77c040b5fd10da939f74408280295937f806c541
     name: hw18-webapp
@@ -24,7 +34,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1-SNAPSHOT
-    created: "2026-05-01T12:48:22.915081062+07:00"
+    created: "2026-05-01T13:04:35.207767735+07:00"
     description: A Helm chart for Kubernetes
     digest: f730500006bf0e35d7b75ce9906125c67a768cfca4cabe42e58371e7d764e070
     name: hw18-webapp
@@ -32,4 +42,4 @@ entries:
     urls:
     - https://olezhuravlev.github.io/helm-charts/hw18-webapp-0.0.1.tgz
     version: 0.0.1
-generated: "2026-05-01T12:48:22.913424466+07:00"
+generated: "2026-05-01T13:04:35.206916679+07:00"
