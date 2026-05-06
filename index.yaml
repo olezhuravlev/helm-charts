@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  hw18-webapp:
+  hw19-webapp:
   - apiVersion: v2
     appVersion: 0.0.1-SNAPSHOT
-    created: "2026-05-01T22:10:03.234816332+07:00"
+    created: "2026-05-06T13:47:29.803102825+07:00"
     description: A Helm chart for Kubernetes
-    digest: 799bcfd2549712212e53d3a627b6488412c7cfbafb108088be4a88aed40397fc
-    name: hw18-webapp
+    digest: d01633e372f437241cc2f99cc71bd44d91d80efe1dd6a5539a26bb8ca933a638
+    name: hw19-webapp
     type: application
     urls:
-    - https://olezhuravlev.github.io/helm-charts/hw18-webapp-0.0.1.tgz
+    - https://olezhuravlev.github.io/helm-charts/hw19-webapp-0.0.1.tgz
     version: 0.0.1
-generated: "2026-05-01T22:10:03.233815293+07:00"
+generated: "2026-05-06T13:47:29.802543276+07:00"
